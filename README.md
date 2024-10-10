@@ -1,4 +1,3 @@
-
 Hi there 👋
 I'm Rohith mandapaka , a Machine Learning and Deep Learning Engineer.
 🔭 I’m currently working on Data Science, Machine Learning projects.
